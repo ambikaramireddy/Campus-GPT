@@ -276,6 +276,20 @@ This allows the LLM to generate answers using information retrieved from the col
 
 ---
 
+## 🚀 Live Demo
+
+Experience CampusGPT in action:
+
+🔗 **[Try CampusGPT Live →](https://ai-powered-college-management-assistant-using-rag-pgkgzd2ahtxo.streamlit.app/)**
+
+### ✨ Features Available in the Demo
+
+- 💬 Ask college-related questions
+- 📄 Retrieve information from PDF documents
+- 🔎 Perform semantic document search
+- 🤖 Generate contextual AI-powered responses
+- ⚡ Get quick answers through a conversational interface
+
 ## 🚧 10. Challenge and Solution
 
 ### Challenge
